@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://i.imgur.com/VzE1Cam.png" alt="Banner" width="100%"/>
-</p>
-
 # 👩‍💻 Sujatha R | Automation Test Engineer
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F70000&width=435&lines=Automation+Test+Engineer;Python+%7C+Selenium+%7C+PyTest+Expert" alt="Typing SVG" />
